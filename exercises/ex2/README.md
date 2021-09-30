@@ -1,5 +1,7 @@
 # Exercise 2 - Exercise 2 Description
 
+<br>![](/exercises/ex2/images/APIM_APIVersionRun.mp4)
+
 In this exercise, we will create...
 
 ## Exercise 2.1 Sub Exercise 1 Description
