@@ -1,37 +1,70 @@
-# Session ID - Session Title
+# DEV163 - Get Hands-On Experience with SAP Integration Suite
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2021 session called Session ID - Session Title.  
+Get your hands dirty learning the latest and greatest of SAP Integration Suite, SAP's hybrid integration platform offering for enterprise-wide integration needs.  
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces you to new features of SAP Integration Suite that have been recently shipped. Here, we focus on two SAP Integration Suite capabilities namely Cloud Integration and API Management. When running through the exercises, you will touch a couple of new features such as:
+- Low code API development
+- Script collection
+- Message mapping as reusable artifact
+- Flow step recommendations
+- Integration flow simulation
+- JSON message mapping based on Swagger file
+- Show deployment status in designer
+- Monitoring enhancements: search based on payload data
+- Discover integration flows in API Management designer
+- Versioning of APIs
+
+### Scenario setup
+
+You would like to send birthday greetings for all employees which celebrate their birthday in the current month. For this, you will create a simple REST API to query the employee birthday data for a particular month. Within the REST API implementation, you will call a SOAP service provided by us mocking an HR system. The data is expected to be provided in JSON format, so a transformation from XML to JSON is required. The REST API should be accessible from your centralized API catalog. Furthermore, you need to add a policy for traffic management purposes.
+So, in a nutshell, the following steps need to be performed:
+- In Cloud Integration, you will create a message mapping and a script collection as re-usable artifacts that are required within your REST API
+- In Cloud Integration, you will create, implement and deploy a new REST API providing the employee birthday data
+- In API Management, you will create an API proxy based on the beforehand created REST API
+- In API Management, you will add a traffic policy to a new version of the API proxy
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+There are no prior requirements to this exercise. You can perform this even if you do not have any experience with integration solutions. However, you will be able to derive a lot of value from this session if you have some knowledge on what SAP Integration Suite is all about and how it helps with enterprise-wide integration needs.
+
+Here are two missions that can help you getting started with SAP Integration Suite:
+
+- [Get Started with Integration Suite - Cloud Integration](https://discovery-center.cloud.sap/protected/index.html#/missiondetail/3258/3327/)
+- [Get Started with Integration Suite - API Management](https://discovery-center.cloud.sap/protected/index.html#/missiondetail/3062/3072/)
+
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+You can use this section as an index or table of contents. All pages have a link on top of the page to go back to the Table of Contents for easy navigation.
 
+### Prepare
 - [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
 
-  
-**OR** Link to the Tutorial Navigator for example...
+### [Exercise 1 - Create Re-usable Artifacts](exercises/ex1/)
+- [Create a re-usable message mapping](exercises/ex1/ex11)
+- [Test your message mapping](exercises/ex1/ex12)
+- [Deploy your message mapping](exercises/ex1/ex13)
+- [Import and deploy a script collection](exercises/ex1/ex14)
 
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
+### [Exercise 2 - Create a REST API](exercises/ex2/)
+- [Create a new REST API](exercises/ex2/ex21)
+- [Add references to the REST API](exercises/ex2/ex22)
+- [Maintain the REST API end point](exercises/ex2/ex23)
+- [Maintain the REST API flow steps](exercises/ex2/ex24)
+- [Simulate the newly created REST API](exercises/ex2/ex25)
+- [Deploy your REST API](exercises/ex2/ex26)
 
-**IMPORTANT**
+### [Exercise 3 - Create an API Proxy](exercises/ex3/)
+- [Create an API proxy](exercises/ex3/ex31)
+- [Test your API proxy](exercises/ex3/ex32)
+- [Create a new API version & add a policy](exercises/ex3/ex33)
+- [Test your new API proxy version](exercises/ex3/ex34)
 
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
+
 
 ## How to obtain support
 
