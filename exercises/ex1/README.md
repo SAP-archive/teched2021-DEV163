@@ -11,9 +11,9 @@ In exercises 1 and 2, we will work within the Cloud Integration Web UI to design
 
 <br>![Integration Suite landing page](/exercises/ex1/images/CI_LandingPage.png)
 
-## Run through the Exercise 1 steps
+## Exercise steps
 
-This part of the tutorial can be divided into the following chapters:
+Run through the exercise steps in the given order.
 
 ### [Create a re-usable message mapping](exercises/ex1/ex11)
 Within the integration package assigned to you, create a re-usable message mapping to map from XML to JSON.
