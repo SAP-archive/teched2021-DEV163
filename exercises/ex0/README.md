@@ -19,4 +19,4 @@ Each participant will get a participant number assigned to avoid any clashes. Us
 
 ## Summary
 
-Now that you have run through the preparation, continue to: [Exercise 1](../ex1/README.md)
+Now that you have run through the preparation, continue to - [Exercise 1](../ex1/README.md)
