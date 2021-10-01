@@ -1,44 +1,31 @@
-# Exercise 2 - Exercise 2 Description
+# Exercise 2 - Create a REST API
 
-<figure class="video_container"><iframe src="https://video.sap.com/embed/secure/iframe/entryId/1_klf36c2h/uiConfId/30317401" frameborder="0" allowfullscreen="true"> </iframe></figure>
+In the second part of the tutorial, you will create, test, and deploy a RESTful API in Cloud Integration to fetch employee birthday data for a particular month.
 
-In this exercise, we will create...
+## Exercise steps
 
-## Exercise 2.1 Sub Exercise 1 Description
+Run through the exercise steps in the given order.
 
-After completing these steps you will have created...
+### [Create a new REST API](exercises/ex2/ex21)
+Create a new REST API and add the required flow steps using the quick menu buttons and flow step proposals.
 
-1. Click here.
-<br>![](/exercises/ex2/images/02_01_0010.png)
+### [Add references to the REST API](exercises/ex2/ex22)
+Add the re-usable artifacts to the references of your newly created REST API.
 
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello ABAP World! | ). 
-```
+### [Maintain the REST API end point](exercises/ex2/ex23)
+Configure the HTTP sender adapter of your REST API.
 
+### [Maintain the REST API flow steps](exercises/ex2/ex24)
+Configure the flow steps of your REST API integration flow model.
 
+### [Simulate the newly created REST API](exercises/ex2/ex25)
+Test your API using the integration flow simulation capability.
 
-## Exercise 2.2 Sub Exercise 2 Description
-
-After completing these steps you will have...
-
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc = 0.
-    response->set_status( i_code = 200
-                     i_reason = 'Everything is fine').
-    RETURN.
-  ENDIF.
-
-```
-
-2.	Click here.
-<br>![](/exercises/ex2/images/02_02_0010.png)
+### [Deploy your REST API](exercises/ex2/ex26)
+Deploy your REST API on the runtime node.
 
 ## Summary
 
-You've now ...
+At the end of this part of the tutorial, you should have a running REST API which will then be consumed in API Management in the next part of the tutorial.
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to - [Exercise 3](../ex3/README.md)
