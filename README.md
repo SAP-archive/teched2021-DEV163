@@ -39,7 +39,7 @@ Here are two missions that can help you getting started with SAP Integration Sui
 
 ## Exercises
 
-You can use this section as an index or table of contents. All pages have a link on top of the page to go back to the Table of Contents for easy navigation.
+In the following, the complete list of exercise steps are listed. Run through them in the given order. You can use this section as an index or table of contents. Use the breadcrumb menu on top of the pages to go back to the Table of Contents for easy navigation.
 
 ### Prepare
 - [Getting Started](exercises/ex0/)
