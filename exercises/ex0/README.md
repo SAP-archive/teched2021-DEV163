@@ -1,24 +1,14 @@
-# Level 1 Heading
+# Getting started
 
 In this exercise, you will...
 
-## Level 2 Heading
+## Download the exercise material
 
-After completing these steps you will have....
+Before you start with the actual tutorial, download and unzip the [attached tutorial material](/exercises/ex0/material/TutorialMaterial.zip). Once you have unzipped the material file, you should see the following folders:
+- Integration Artifacts - containing script collection as well as mapping source and target message format
+- Service Key - containing runtime service key
+- Simulation - containing sample input message
 
-1.	Click here.
-<br>![](/exercises/ex0/images/00_00_0010.png)
-
-2.	Insert this code.
-``` abap
- DATA(params) = request->get_form_fields(  ).
- READ TABLE params REFERENCE INTO DATA(param) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
-```
 
 ## Summary
 
