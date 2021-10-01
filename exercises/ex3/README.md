@@ -8,7 +8,7 @@ In exercise 3, we will work with the API Management service. So, let's open the 
 1. Navigate to the SAP Integration Suite landing page by selecting the Integration Suite link in the top bar
 1. On the landing page, select the API Management tile to open the API Portal
 
-<br>![Integration Suite landing page](/exercises/ex1/images/APIM_LandingPage.png)
+<br>![Integration Suite landing page](/exercises/ex3/images/APIM_LandingPage.png)
 
 ## Exercise steps
 
@@ -32,4 +32,4 @@ At the end of the last part of the tutorial, you should have defined two API pro
 
 Congratulations - you have completed the overall tutorial.
 
-Navigate back to - [Exercise overview page](exercises/README.md)
+Navigate back to - [Exercise overview page](/README.md)
