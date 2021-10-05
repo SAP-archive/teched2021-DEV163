@@ -12,10 +12,10 @@ Run through the following steps.
 5. In the upcoming dialog, select your message mapping artifact MapToJSON_XX with XX the participant number assigned to you, then click on OK
 6. You should see both re-usable artifacts in the list of references
 
-
+<br>![Add references](/exercises/ex2/images/CI_AddReferences.png)
 
 ## Summary
 
-At the end of this exercise, your REST API flow step model has been created.
+At the end of this exercise, the references should have been added to your integration flow.
 
 Next, the flow steps need to be configured. Continue to - [Exercise 2.3](/exercises/ex2/ex23)
