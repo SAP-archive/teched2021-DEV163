@@ -15,7 +15,7 @@ Run through the following steps, **see also video below**.
 
 The video shows you the steps described above. Best is to run the video by selecting **Open link in new tab** so that you can easily return to this page for further proceeding.
 
-[![Create mapping video](/exercises/ex1/images/CI_CreateMapping_Thumbnail.png)](https://video.sap.com/media/t/1_blb5k1bl)
+[![Deploy mapping video](/exercises/ex1/images/CI_DeployMapping_Thumbnail.png)](https://video.sap.com/media/t/1_nldhxmv0)
 
 ## Summary
 
