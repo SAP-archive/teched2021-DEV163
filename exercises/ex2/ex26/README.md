@@ -26,6 +26,6 @@ First let's configure the address of the SOAP service that is called within the 
 
 ## Summary
 
-At the end of this exercise, you should have maintained a unique end point of your REST API.
+At the end of the second part of the tutorial, you should have a running REST API on the Cloud Integration tenant to fetch employee birthday data.
 
-Continue to - [Exercise 3](/exercises/ex3)
+In the last part of the tutorial, we will consume this REST API in API Management. Continue to - [Exercise 3](/exercises/ex3)
