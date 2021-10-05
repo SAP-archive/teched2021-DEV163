@@ -14,16 +14,16 @@ In exercise 3, we will work with the API Management service. So, let's open the 
 
 Run through the exercise steps in the given order.
 
-### [Create an API proxy](exercises/ex3/ex31)
+### [Create an API proxy](/exercises/ex3/ex31)
 Browse the Cloud Integration end points, and create a new API proxy.
 
-### [Test your API proxy](exercises/ex3/ex32)
+### [Test your API proxy](/exercises/ex3/ex32)
 Test your API using the test capability within the API Portal.
 
-### [Create a new API version & add a policy](exercises/ex3/ex33)
+### [Create a new API version & add a policy](/exercises/ex3/ex33)
 Create a new API proxy version and add a policy.
 
-### [Test your new API proxy version](exercises/ex3/ex34)
+### [Test your new API proxy version](/exercises/ex3/ex34)
 Test the new API proxy version using the test capability within the API Portal.
 
 ## Summary
