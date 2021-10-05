@@ -5,10 +5,10 @@ Before using the re-usable message mapping in an integration flow or API, you ne
 ## Exercise steps
 
 Run through the following steps, **see also video below**.
-1. If you are still in the message mapping editor, simply click on the Deploy button. Otherwise, on the Artifacts tab within your integration package, you can also select Deploy from the action menu of your message mapping artifact
+1. If you are still in the message mapping editor, simply click on the *Deploy* button. Otherwise, on the *Artifacts* tab within your integration package, you can also select *Deploy* from the action menu of your message mapping artifact
 2. Confirm the upcoming dialog if any
-3. Switch to the Operations view by selecting the Monitor entry in the navigation pane
-4. Below the Manage Integration Content, you will find a Message Mapping tile. Select the tile
+3. Switch to the Operations view by selecting the *Monitor* entry in the navigation pane
+4. Below the *Manage Integration Content*, you will find a *Message Mapping* tile. Select the tile
 5. In the Manage Integration Content monitor, search for your participant number. After a while, the status should change to **Started**
 
 ## Demo
