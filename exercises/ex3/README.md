@@ -5,8 +5,8 @@ In the third part of the tutorial, we will discover the APIs provided by the Clo
 ## Open API Portal
 
 In exercise 3, we will work with the API Management service. So, let's open the API Portal.
-1. Navigate to the SAP Integration Suite landing page by selecting the Integration Suite link in the top bar
-1. On the landing page, select the API Management tile to open the API Portal
+1. Navigate to the SAP Integration Suite landing page by selecting the *Integration Suite* link in the top bar
+1. On the landing page, select the *API Management* tile to open the API Portal
 
 <br>![Integration Suite landing page](/exercises/ex3/images/APIM_LandingPage.png)
 
