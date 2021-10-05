@@ -12,7 +12,7 @@ Run through the following steps.
 5. Switch to *Edit* mode, and rearrange the subprocess as follows
    1. Enlarge the subprocess pool so that you have enough space to add 5 further steps
    2. Move the existing *Content Modifier* step to the very end right before the End event
-6. Add the following flow steps between the *Start* event and the existing *Content Modifier* step using the quick menu buttons. You get flow steps proposed based on statistical information, otherwise you have the option to search for flow step types if not listed as proposed step. This helps you accelerating the creation of the flow step skeleton. **See also video below**
+6. Add the following flow steps between the *Start* event and the existing *Content Modifier* step using the quick menu buttons. You get flow steps proposed based on statistical information, otherwise you have the option to search for flow step types if not listed as proposed step. This helps you accelerating the creation of the flow step skeleton. [See also video below](#Demo)
    1. Add a *Groovy Script* step
    2. Add a *Content Modifier* step
    3. Add a *Request Reply* step
