@@ -15,21 +15,21 @@ In exercises 1 and 2, we will work within the Cloud Integration Web UI to design
 
 Run through the exercise steps in the given order.
 
-### [Create a re-usable message mapping](exercises/ex1/ex11)
+### [Create a re-usable message mapping](/exercises/ex1/ex11)
 Within the integration package assigned to you, create a re-usable message mapping to map from XML to JSON.
 
-### [Test your message mapping](exercises/ex1/ex12)
+### [Test your message mapping](/exercises/ex1/ex12)
 Optionally, test your message mapping using the simulation capability inside the message mapping editor.
 
-### [Deploy your message mapping](exercises/ex1/ex13)
+### [Deploy your message mapping](/exercises/ex1/ex13)
 Before using the re-usable message mapping in an integration flow or API, it needs to be deployed on the runtime node.
 
-### [Import and deploy a script collection](exercises/ex1/ex14)
+### [Import and deploy a script collection](/exercises/ex1/ex14)
 Import a script collection that contains all Groovy scripts which are required within your API implementation. Then deploy it on the runtime node.
 
 ## Summary
 
 At the end of the first part of the tutorial, you should have defined and deployed both a message mapping and a script collection.
 
-Continue to - [Exercise 2](../ex2/README.md)
+Continue to - [Exercise 2](/exercises/ex2/README.md)
 
