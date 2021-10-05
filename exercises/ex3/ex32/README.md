@@ -1,6 +1,6 @@
 # Exercise 3.2 - Test the API proxy
 
-Let's test the beforehand created API proxy. For this, we can use the inbuilt test capability.
+Let's test the beforehand created API proxy version 1.0. For this, we can use the inbuilt test capability.
 
 ## Exercise steps
 
@@ -22,6 +22,6 @@ The video below shows the exercise steps as described above. Best is to run the 
 
 ## Summary
 
-At the end of this exercise, you should have successfully run the API proxy of version 1.0.
+At the end of this exercise, you should have successfully run the API proxy.
 
 Continue to - [Exercise 3.3](/exercises/ex3/ex33)
