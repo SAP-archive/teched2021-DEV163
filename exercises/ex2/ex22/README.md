@@ -5,11 +5,11 @@ In the previous exercise, you have created the basic skeleton of the REST API. I
 ## Exercise steps
 
 Run through the following steps.
-1. In the integration flow editor, switch to the Resources tab, then select the References tab
-2. Add a new script collection reference
-3. In the upcoming dialog, select your script collection ScriptCollection_XX with XX the participant number assigned to you, then click on OK
-4. Next, add a new message mapping reference
-5. In the upcoming dialog, select your message mapping artifact MapToJSON_XX with XX the participant number assigned to you, then click on OK
+1. In the integration flow editor, switch to the *Resources* tab, then select the *References* tab
+2. Add a new script collection reference by selecting the menu entry *Add References --> Script Collection*
+3. In the upcoming dialog, select your script collection **ScriptCollection_XX** with **XX** the participant number assigned to you, then click on *OK*
+4. Next, add a new message mapping reference by selecting the menu entry *Add References --> Message Mapping*
+5. In the upcoming dialog, select your message mapping artifact **MapToJSON_XX** with **XX** the participant number assigned to you, then click on *OK*
 6. You should see both re-usable artifacts in the list of references
 
 <br>![Add references](/exercises/ex2/images/CI_AddReferences.png)
@@ -18,4 +18,4 @@ Run through the following steps.
 
 At the end of this exercise, the references should have been added to your integration flow.
 
-Next, the flow steps need to be configured. Continue to - [Exercise 2.3](/exercises/ex2/ex23)
+Continue to - [Exercise 2.3](/exercises/ex2/ex23)
