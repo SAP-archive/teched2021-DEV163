@@ -4,7 +4,7 @@ Before using the re-usable message mapping in an integration flow or API, you ne
 
 ## Exercise steps
 
-Run through the following steps, **see also video below**.
+Run through the following steps, [see also video below](#Demo).
 1. If you are still in the message mapping editor, simply click on the *Deploy* button. Otherwise, on the *Artifacts* tab within your integration package, you can also select *Deploy* from the action menu of your message mapping artifact
 2. Confirm the upcoming dialog if any
 3. Switch to the Operations view by selecting the *Monitor* entry in the navigation pane
