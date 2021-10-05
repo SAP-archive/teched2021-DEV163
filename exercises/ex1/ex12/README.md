@@ -5,10 +5,10 @@ Since we will simulate the whole REST API in the second part of the tutorial any
 ## Exercise steps
 
 If you like to simulate your beforehand created message mapping to ensure that it functions properly, proceed as follows. **See also video below**.
-1. If you are still in the message mapping editor, click on the Simulate button.
-2. In the upcoming dialog, select Browse to upload a sample input file
-3. Navigate to the *Simulation* folder of the tutorial material, and select the XML file *SampleResponseFromSOAPService.xml*, then click on Open
-4. You will see the sample file within the test input on the left. Click on Test
+1. If you are still in the message mapping editor, click on the *Simulate* button.
+2. In the upcoming dialog, select *Browse* to upload a sample input file
+3. Navigate to the **Simulation** folder of the tutorial material, and select the XML file **SampleResponseFromSOAPService.xml**, then click on *Open*
+4. You will see the sample file within the test input on the left. Click on *Test*
 5. Once the mapping test has successfully run, you should see the test output on the right
 6. Optionally, you can download the output and open the file with notepad. The mapped file should be in JSON format
 
