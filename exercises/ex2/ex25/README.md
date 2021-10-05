@@ -4,7 +4,7 @@ The simulation feature allows you to test the integration flow or parts of the f
 
 ## Exercise steps
 
-Run through the following steps, [see also video below](/exercises/ex2/ex25#Demo).
+Run through the following steps, [see also video below](#Demo).
 1. In the integration flow model, click on the connection between the *Start* event and the *first Groovy* script, and select the button *Simulation Start Point* from the quick menu
 2. Click on the connection right after the *Message Mapping* step, and select the button *Simulation End Point* from the quick menu
 3. Click on the *Simulation Start Point*, and upload the zip sample file **SampleRequest.zip** from the **Simulation** folder of the beforehand downloaded material. The zip file contains a sample header file defining the HTTP URL, the HTTP query, and the HTTP path
