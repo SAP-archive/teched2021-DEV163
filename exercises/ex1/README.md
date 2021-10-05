@@ -7,7 +7,7 @@ In the first part of the tutorial, you will create re-usable artifacts in Cloud 
 In exercises 1 and 2, we will work within the Cloud Integration Web UI to design, develop and operate integration scenarios. So, let's open the Web UI.
 1. Open the SAP Integration Suite landing page (see system and logon information provided to you)
 1. Logon with the user and password provided to you
-1. On the landing page, select the Cloud Integration tile to open the Cloud Integration Web UI
+1. On the landing page, select the *Cloud Integration* tile to open the Cloud Integration Web UI
 
 <br>![Integration Suite landing page](/exercises/ex1/images/CI_LandingPage.png)
 
