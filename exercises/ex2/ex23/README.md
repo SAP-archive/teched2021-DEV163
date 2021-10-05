@@ -11,14 +11,12 @@ Run through the following steps.
 
 <br>![Add references](/exercises/ex2/images/CI_EndPoint.png)
 
-**Note**: Since we use a wildcard in the endpoint of the REST API, we can call the REST API passing different values for service, resource and id whereas id is optional. Furthermore, we can use GET parameters to define a filter.
-
-Sample URL paths may look as follows:
-- **/tutorial/restapi/XX/hr/employee/PER-5044** to fetch date of birthday for a particular employee
-- or **/tutorial/restapi/XX/hr/employee?month=03** to fetch all employees which were born in March
+**Note**: Since we use a wildcard in the endpoint of the REST API, we can call the REST API passing different values for service, resource and id whereas id is optional. Furthermore, we can use GET parameters to define a filter. Sample URL paths may look as follows:
+- **/tutorial/restapi/XX/hr/employee/PER-5044** to fetch date of birthday for a particular employee with id **PER-5044**
+- or **/tutorial/restapi/XX/hr/employee?month=03** to fetch all employees which were born in **March**
 
 ## Summary
 
-At the end of this exercise, the end point of your REST API should have been maintained.
+At the end of this exercise, you should have maintained a unique end point of your REST API.
 
 Continue to - [Exercise 2.4](/exercises/ex2/ex24)
