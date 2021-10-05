@@ -16,6 +16,8 @@ Run through the following steps.
 9. In the Monitor, select the *Script Collection* tile below the *Manage Integration Content* section
 10. Search for your participant number. After a while the status of your script collection will turn from Starting into **Started**
 
+<br>![Script collection](/exercises/ex1/images/CI_ScriptCollection.png)
+
 ## Summary
 
 At the end of this exercise, you should have uploaded and deployed the provided script collection.
