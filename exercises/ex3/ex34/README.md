@@ -23,4 +23,4 @@ The video below shows the exercise steps as described above. Best is to run the 
 
 At the end of this exercise, you should have successfully run the new API proxy version and verified that the policy has been applied.
 
-Congratulations, this concludes the overall tutorial. Navigate back to - [Overview](/exercises)
+Congratulations, this concludes the overall tutorial. Navigate back to - [Exercise overview page](/README.md)
