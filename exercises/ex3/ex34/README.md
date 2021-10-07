@@ -23,4 +23,6 @@ The video below shows the exercise steps as described above. Best is to run the 
 
 At the end of this exercise, you should have successfully run the new API proxy version and verified that the policy has been applied.
 
-Congratulations, this concludes the overall tutorial. Navigate back to - [Exercise overview page](/README.md)
+This more or less concludes the overall tutorial. You may navigate back to - [Exercise overview page](/README.md)
+
+If you however like to know more about the message monitoring filter options, you can continue to the optional exercise - [Exercise 3.5](/exercises/ex3/ex35)
