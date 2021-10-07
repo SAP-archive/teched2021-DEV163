@@ -46,7 +46,7 @@ In the following, the complete list of exercise steps are listed. Run through th
 
 ### [Exercise 1 - Create Re-usable Artifacts](exercises/ex1/)
 - [Create a re-usable message mapping](exercises/ex1/ex11)
-- [Test your message mapping](exercises/ex1/ex12)
+- [Optional - Test your message mapping](exercises/ex1/ex12)
 - [Deploy your message mapping](exercises/ex1/ex13)
 - [Import and deploy a script collection](exercises/ex1/ex14)
 
@@ -63,6 +63,7 @@ In the following, the complete list of exercise steps are listed. Run through th
 - [Test your API proxy](exercises/ex3/ex32)
 - [Create a new API version & add a policy](exercises/ex3/ex33)
 - [Test your new API proxy version](exercises/ex3/ex34)
+- [Optional - Monitor your messages](exercises/ex3/ex35)
 
 
 
