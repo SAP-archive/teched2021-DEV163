@@ -1,4 +1,4 @@
-# Exercise 1.2 - Simulate the message mapping
+# Exercise 1.2 (Optional) - Simulate the message mapping
 
 Since we will simulate the whole REST API in the second part of the tutorial anyway, this step can be done optionally.
 
