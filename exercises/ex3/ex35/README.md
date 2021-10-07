@@ -12,8 +12,8 @@ Run through the following steps, [see also video below](#Demo).
 5. In the Monitor Message Processing, narrow down the list of log entries by using the filter. Click on the *Use More Fields* button
 6. Here, you have different filter options based on the MPL and custom header properties.
    1. In the *Application Message Type* filter, select **person_XX** with **XX** the number assigned to you
-   2. In the Custom Header enter **month=##** with **##** the month that you have used previously when testing the APIs, e.g., 03. Then click *enter*
-8. This will display your logs. If you scroll down, you can see that the custom header properties are displayed in the Properties section of the log
+   2. In the Custom Header enter **month=##** with **##** the month that you have used previously when testing the APIs, e.g., **month=03**. Then click *enter*
+7. This will display your logs. If you scroll down, you can see that the custom header properties are displayed in the Properties section of the log
 
 ## Demo
 
