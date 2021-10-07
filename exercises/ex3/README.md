@@ -26,6 +26,9 @@ Create a new API proxy version and add a policy.
 ### [Test your new API proxy version](/exercises/ex3/ex34)
 Test the new API proxy version using the test capability within the API Portal.
 
+### [Optional - Monitor the message exchange](/exercises/ex3/ex35)
+Monitor the message exchange in the Operations view of Cloud Integration.
+
 ## Summary
 
 At the end of the last part of the tutorial, you should have defined two API proxy versions, and have successfully tested the APIs.
