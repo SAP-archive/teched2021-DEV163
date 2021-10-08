@@ -6,7 +6,7 @@ In the following, you will create a new message mapping to map employee birthday
 
 Run through the following steps, [see also video below](#Demo).
 1. Within the Cloud Integration Web UI, switch to the *Design* area
-2. In the Design area, enter your package **Teched 2021 Exercise XX** with **XX** the participant number assigned to you
+2. In the Design area, create a new package with a unique name, e.g., **Teched 2021 Exercise XX** with **XX** the participant number assigned to you
 3. In the package, switch to *Edit* mode
 4. To create a new message mapping, select menu *Add --> Message Mapping*
 5. In the upcoming dialog, enter name **MapToJSON_XX** with **XX** the participant number assigned to you, then click on *OK*
