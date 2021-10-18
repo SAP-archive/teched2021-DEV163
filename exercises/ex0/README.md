@@ -18,7 +18,7 @@ For running through the exercise steps, we will provide an SAP Integration Suite
 2. Book the tenant
 3. On the next screen, you will find all necessary information for accessing the tenant, see figure below
    1. Your **user** and a **password** generated to be able to logon to the tenant design time UIs
-   2. The **tenant URL** for accessing the SAP Integration Suite launch page
+   2. The **tenant URL** for accessing the SAP Integration Suite landing page
    3. The **token service URL**
    4. **Client ID** and **Client Secret** required to authenticate to the Cloud Integration runtime
 4. Either copy and save the information in a text file or keep the browser window open
