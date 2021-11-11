@@ -8,7 +8,7 @@ Run through the following steps, [see also video below](#Demo).
 1. If you are still in the message mapping editor, simply click on the *Deploy* button. Otherwise, on the *Artifacts* tab within your integration package, you can also select *Deploy* from the action menu of your message mapping artifact
 2. Confirm the upcoming dialog if any
 3. Switch to the Operations view by selecting the *Monitor* entry in the navigation pane
-4. Below the *Manage Integration Content* section, select the *Message Mapping* tile. If the *Message Mapping* tile does not exist, you first need to add it by clicking on the Plus sign tile. In the upcoming tile settings dialog, select the *Message Mapping* artefact type, then click *OK*
+4. Below the *Manage Integration Content* section, select the *Message Mapping* tile. If the *Message Mapping* tile does not exist, you first need to add it by clicking on the *Plus* sign tile. In the upcoming tile settings dialog, select the *Message Mapping* artefact type, then click *OK*
 5. In the Manage Integration Content monitor, search for your participant number. After a while, the status should change to **Started**
 
 ## Demo
