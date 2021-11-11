@@ -9,7 +9,7 @@ Run through the following steps.
 2. In the package, switch to *Edit* mode
 3. Select menu *Add --> Script Collection*
 4. In the upcoming dialog, switch to the *Upload* radio button, then select *Browse*
-5. Navigate to the **Integration Artifacts** folder of your beforehand downloaded tutorial material, and select the **Scripting - Script Collection XX.zip** file, then click on *OK*
+5. Navigate to the **Integration Artifacts** folder of your beforehand downloaded tutorial material, and select the **Scripting - Script Collection XX.zip** file with **XX** the participant number assigned to you, then click on *OK*
 6. You should see the script collection in the list of your artifacts
 7. From the action menu of the script collection, select *Deploy*
 8. Like you did for the message mapping, we will navigate to the Operations view to ensure that the artifact has been successfully deployed. Select entry *Monitor* from the navigation pane.
