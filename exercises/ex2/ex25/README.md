@@ -19,7 +19,7 @@ Run through the following steps, [see also video below](#Demo).
 
 The video below shows you how to simulate your integration flow. Best is to run the video by selecting **Open link in new tab** so that you can easily return to this page for further proceeding.
 
-[![Simulate integration flow video](/exercises/ex2/images/CI_SimulateIntegrationFlow_Thumbnail.png)](https://video.sap.com/media/t/1_y47s5qie)
+[![Simulate integration flow video](/exercises/ex2/images/CI_SimulateIntegrationFlow_Thumbnail.png)](https://sapvideoa35699dc5.hana.ondemand.com/?entry_id=1_y47s5qie)
 
 ## Summary
 
