@@ -12,7 +12,7 @@ Run through the following steps, [see also video below](#Demo).
 5. From the list of deployed APIs, select your API **EmployeeBirthdayRESTAPI_XX** with your participant number **XX**, then click on the *Next* button
 6. On the next screen, you can choose from different authentication types to access the API metadata
    1. Here, we select the authentication type *OAuth2ClientCredentials* from the drop down menu
-   2. Then, maintain *Client ID*, *Client Secret*, and *Token URL*. You find the required information in the **serviceKey_Runtime.txt** file that you have downloaded before.
+   2. Then, maintain *Client ID*, *Client Secret*, and *Token URL*. You find the required information on the Tenant Booker Application page
    3. Then click the *Done* button.
 7. On the next screen, maintain the API details.
    1. You can keep the proposed *Name* and *Title*
