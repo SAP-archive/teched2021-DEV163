@@ -26,7 +26,7 @@ Run through the following steps.
 
 The video below shows you how to use the flow step proposal to create the integration flow model. Best is to run the video by selecting **Open link in new tab** so that you can easily return to this page for further proceeding.
 
-[![Deploy mapping video](/exercises/ex2/images/CI_FlowStepProposals_Thumbnail.png)](https://video.sap.com/media/t/1_g11b4yvx)
+[![Deploy mapping video](/exercises/ex2/images/CI_FlowStepProposals_Thumbnail.png)](https://sapvideoa35699dc5.hana.ondemand.com/?entry_id=1_g11b4yvx)
 
 ## Summary
 
