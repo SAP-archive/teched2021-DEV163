@@ -16,7 +16,7 @@ If you like to simulate your beforehand created message mapping to ensure that i
 
 The video shows you all the steps described above. Best is to run the video by selecting **Open link in new tab** so that you can easily return to this page for further proceeding.
 
-[![Simulate mapping video](/exercises/ex1/images/CI_SimulateMapping_Thumbnail.png)](https://video.sap.com/media/t/1_sb7u1c2h)
+[![Simulate mapping video](/exercises/ex1/images/CI_SimulateMapping_Thumbnail.png)](https://sapvideoa35699dc5.hana.ondemand.com/?entry_id=1_sb7u1c2h)
 
 ## Summary
 
