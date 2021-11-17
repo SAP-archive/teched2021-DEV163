@@ -64,7 +64,7 @@ Finally, we need to define the proper content type.
 2. Switch to the *Message Header* tab, and create a new header of name **content-type**, type **Constant**, and value **application/json**
 3. When done, save your changes
 
-**Note**: After saving the integration flow model, you will see an error on the SOAP connection. This is due to the fact that the externalized address parameter is still empty. No, worries, you can continue with the next exercise, the error will be gone once we configure the parameter.
+**Note**: After saving the integration flow model, you will see an error on the SOAP connection. This is due to the fact that the externalized address parameter is still empty. No worries, you can continue with the next exercise, the error will be gone once we configure the parameter.
 
 ## Summary
 
