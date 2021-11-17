@@ -19,7 +19,7 @@ Run through the following steps, [see also video below](#Demo).
 
 The video below shows the exercise steps as described above. Best is to run the video by selecting **Open link in new tab** so that you can easily return to this page for further proceeding.
 
-[![Monitor messages video](/exercises/ex3/images/CI_Monitoring_Thumbnail.png)](https://video.sap.com/media/t/1_czd42jq0)
+[![Monitor messages video](/exercises/ex3/images/CI_Monitoring_Thumbnail.png)](https://sapvideoa35699dc5.hana.ondemand.com/?entry_id=1_czd42jq0)
 
 
 ## Summary
