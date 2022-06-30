@@ -1,5 +1,5 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2021-DEV163)](https://api.reuse.software/info/github.com/SAP-samples/teched2021-DEV163)
-
+ 
 # DEV163 - Get Hands-On Experience with SAP Integration Suite
 
 ## Description
